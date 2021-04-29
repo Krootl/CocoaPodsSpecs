@@ -59,7 +59,7 @@
       },
       "ios": {
         "dependencies": {
-          "FirebaseMLVision": "~> 7.6.0-beta"
+          "FirebaseMLVision": "~> 7.11.0"
         }
       }
     }
