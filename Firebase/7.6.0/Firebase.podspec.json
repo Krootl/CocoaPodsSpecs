@@ -44,30 +44,22 @@
     {
       "name": "MLCommon",
       "dependencies": {
-        "Firebase/CoreOnly": [
-
-        ]
+        "Firebase/CoreOnly": "~> 7.0"
       },
       "ios": {
         "dependencies": {
-          "FirebaseMLCommon": [
-            "~> 7.6.0-beta"
-          ]
+          "FirebaseMLCommon": "~> 7.6.0-beta"
         }
       }
     },
     {
       "name": "MLVision",
       "dependencies": {
-        "Firebase/CoreOnly": [
-
-        ]
+        "Firebase/CoreOnly": "~> 7.0"
       },
       "ios": {
         "dependencies": {
-          "FirebaseMLVision": [
-            "~> 7.6.0-beta"
-          ]
+          "FirebaseMLVision": "~> 7.6.0-beta"
         }
       }
     }
