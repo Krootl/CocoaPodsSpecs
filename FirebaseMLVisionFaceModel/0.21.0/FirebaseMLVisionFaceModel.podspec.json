@@ -16,7 +16,7 @@
     "text": "Copyright 2020 Google",
     "type": "Copyright"
   },
-  "name": "Firebase/MLVisionFaceModel",
+  "name": "FirebaseMLVisionFaceModel",
   "platforms": {
     "ios": "8.0"
   },
