@@ -1,7 +1,7 @@
 {
   "authors": "Google, Inc.",
   "dependencies": {
-    "FirebaseMLVision": "= 7.3.0-beta"
+    "FirebaseMLVision": "= 7.6.0-beta"
   },
   "description": "This pod includes the models required for the face detection algorithms for iOS devices. With ML Kit's face detection API, you can detect faces in an image and identify facial features.",
   "frameworks": [
